@@ -39,6 +39,7 @@ The process begins by asking the user for the types of files they want to conver
 * p  - represents PowerPoint
 * w  - represents Word
 * x  - represents Excel
+
 After the user enters the file type, they are prompted to enter the folder path.
 The conversion process begins and each file is listed in the PS window.
 When the conversion process is complete, the PowerShell window displays the number of files converted and the location of the log file.
