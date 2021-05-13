@@ -35,10 +35,10 @@ At the prompt run this script (note the ".\\" represents the current folder)
 .\office2pdf.ps1
 ```
 The process begins by asking the user for the types of files they want to convert (a, p, w, x)
-* a represents ALL file types - Word, Excel, & PowerPoint
-* p represents PowerPoint
-* w represents Word
-* x represents Excel
+* a  - represents ALL file types - Word, Excel, & PowerPoint
+* p  - represents PowerPoint
+* w  - represents Word
+* x  - represents Excel
 After the user enters the file type, they are prompted to enter the folder path.
 The conversion process begins and each file is listed in the PS window.
 When the conversion process is complete, the PowerShell window displays the number of files converted and the location of the log file.
